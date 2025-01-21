@@ -7,7 +7,9 @@
 ## Contact
 
   If you need customize contract or need help, contact here:
-  [Telegram ; 0xTan1319](https://t.me/shiny0103)
+  
+  [Telegram : 0xTan1319](https://t.me/shiny0103)
+  
   [Twitter : 0xTan1319](https://x.com/0xTan1319)
   
 ## Feature
